@@ -1,0 +1,16 @@
+{
+    "name": "fe-nft-auction",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "near-api-js": "^0.43.1",
+        "regenerator-runtime": "^0.13.9"
+    },
+    "devDependencies": {
+        "parcel": "^2.0.1"
+    },
+    "scripts": {
+        "start": "echo The app is starting! It will automatically open in your browser when ready &&  parcel src/index.html --open"
+    }
+}
